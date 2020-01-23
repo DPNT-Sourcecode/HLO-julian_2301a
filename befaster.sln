@@ -9,6 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeFaster.App", "src\BeFaste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeFaster.App.Tests", "src\BeFaster.App.Tests\BeFaster.App.Tests.csproj", "{5E247C4C-F88B-45D0-9A6F-D89BE9DEDC35}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "challenges", "challenges", "{C28CA819-2603-4EF4-9213-5FA9C686B9C8}"
+	ProjectSection(SolutionItems) = preProject
+		challenges\XR.txt = challenges\XR.txt
+		challenges\SUM_R1.txt = challenges\SUM_R1.txt
+		challenges\README.md = challenges\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,3 +42,4 @@ Global
 		SolutionGuid = {502B552F-0111-41BF-9E92-96ABC31DB0EB}
 	EndGlobalSection
 EndGlobal
+
